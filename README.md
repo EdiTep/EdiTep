@@ -1,4 +1,4 @@
-# Edi´s IoT Repo on Github
+# Edi´s DIY, IoT Repo on Github
 - 👋 Hi, my Name is @Edi Teppert
 - 👀 I’m interested in ... IoT, Raspberry Pi, Node-Red, MQTT, Mosquitto, Programming: Python, JS, Json, PowerShell, Batch
 - 🌱 I’m currently learning ... everything about IoT
