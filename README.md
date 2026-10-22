@@ -12,6 +12,7 @@ Here are some of my most important public repositories – practical guides for 
 
 | Repository | Description |
 |------------|--------------|
+| **[Proxon-AirConditioning-and-T300-BoilerBoost-PV-Control-in-Node-Red](https://github.com/EdiTep/Proxon-AirConditioning-and-T300-BoilerBoost-PV-Control-in-Node-Red)** | Use free solar power for cooling and hot water: Node-RED flow that switches the cooling function of a Proxon heat pump (Modbus RTU) and the T300 Boiler Boost (Shelly via MQTT) based on PV power, battery SOC and outside temperature – with hysteresis, Pushover alerts and Dashboard 2.0. |
 | **[Heiman-HS1SA-E-Smokedetector](https://github.com/EdiTep/Heiman-HS1SA-E-Smokedetector-with-ZigBee2MQTT-in-Node-Red)** | Complete Node-RED integration for the Zigbee smoke detector including alerts via email, Pushover & ntfy as well as visual alarm (blinking Zigbee bulb). |
 | **[Keep-your-basement-dry](https://github.com/EdiTep/Keep-your-basement-dry-at-no-power-cost)** | Intelligent control of a dehumidifier (Tasmota socket + Node-RED) – without additional electricity costs. |
 | **[Node-Red-Control-Proxon-E3DC](https://github.com/EdiTep/Node-Red-Control-Proxon-E3DC)** | PV surplus control for a hot water storage tank based on battery charge level (Shelly, MQTT, Node-RED). |
